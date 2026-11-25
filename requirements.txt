@@ -1,0 +1,5 @@
+faster-whisper
+librosa
+numpy
+anthropic
+python-dotenv

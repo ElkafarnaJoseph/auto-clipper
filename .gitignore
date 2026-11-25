@@ -1,0 +1,12 @@
+.env
+.venv/
+clipping/
+.vscode/
+vods/
+cut_videos/
+videos/
+output/
+pipeline.db
+__pycache__/
+*.mp4
+*.wav
